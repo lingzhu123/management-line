@@ -1,0 +1,1 @@
+import{a as r,ba as s,o as n,e as l,ah as u,u as c,aR as i,bj as p}from"./index.a8fa77aa.js";const y=r({async setup(_){let e,t,o=i().currentRoute.value.query.id;console.log(o);let a=([e,t]=s(()=>p(Number(o))),e=await e,t(),e);return console.log(a),(b,f)=>(n(),l("div",null,u(c(a).data),1))}});export{y as default};
